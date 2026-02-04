@@ -1,6 +1,5 @@
-# 👨🏻‍💻 Thiago Martins
-
-**`Estudante de Engenharia de Software`**
+# 👨‍💻 Thiago Martins
+### *`Estudante de Engenharia de Software`*
 
 Sou Thiago Martins, estudante de Engenharia de Software e apaixonado por tecnologia.  
 Acredito que a vida pode ser redesenhada e que programar é minha ferramenta para isso: transformar problemas em soluções claras e funcionais.  
@@ -24,25 +23,5 @@ Atualmente estou em formação, desenvolvendo meus próprios projetos e buscando
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <br/>
-<br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Streak" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com/?user=ThiagoMartinsASilva&theme=radical&hide_border=true" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Activity Graph" 
-    height="200" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoMartinsASilva&theme=radical" 
-  />
-</p>
