@@ -6,7 +6,7 @@ I believe life can be redesigned, and programming is my tool to make that happen
 
 As someone on the Autism Spectrum (ASD), I have a unique perspective that reveals patterns and paths that aren’t always obvious.  
 I see this as proof that thinking differently is what drives innovation.  
-That’s why I value people who think outside the box—because those are the ideas that push the world forward.  
+That’s why I value people who think outside the box, as their ideas are the ones that drive the world forward.   
 
 Right now, I’m still in training, building my own projects and working to grow as a developer.  
 
