@@ -1,27 +1,24 @@
-# 👨‍💻 Thiago Martins
-### *`Software Engineering Student`*
+<p align="left">
+  <img width="800" alt="thiago_banner" src="https://github.com/user-attachments/assets/f51ebf63-855b-41a7-b354-2ae767525ba1" />
+</p>
 
-I’m Thiago Martins, a Software Engineering student with a passion for technology.  
-I believe life can be redesigned, and programming is my tool to make that happen: turning problems into clear and functional solutions.  
-
-As someone on the Autism Spectrum (ASD), I have a unique perspective that reveals patterns and paths that aren’t always obvious.  
-I see this as proof that thinking differently is what drives innovation.  
-That’s why I value people who think outside the box, as their ideas are the ones that drive the world forward.   
-
-Right now, I’m still in training, building my own projects and working to grow as a developer.  
+> **"Acredito que a vida pode ser redesenhada e a programação é a minha ferramenta para isso."**
 
 ---
 
-### 🤖 Languages & Technologies
+### Painel de Desenvolvimento
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<br/>
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartinsASilva&layout=compact&theme=transparent&title_color=2F3437&text_color=4B5563&hide_border=true&locale=pt-br" />
+</p>
 
 ---
+### Foco Principal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
