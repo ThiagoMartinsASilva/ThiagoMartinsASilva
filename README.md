@@ -6,13 +6,6 @@
 
 ---
 
-### Painel de Desenvolvimento
-
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartinsASilva&layout=compact&theme=transparent&title_color=2F3437&text_color=4B5563&hide_border=true&locale=pt-br" />
-</p>
-
----
 ### Foco Principal
 
 <p align="left">
